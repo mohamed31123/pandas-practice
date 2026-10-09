@@ -1,0 +1,16 @@
+order_id,date,customer,city,product,category,quantity,unit_price
+1,2025-01-05,Amine,Marrakech,Laptop,Electronics,1,7500
+2,2025-01-07,Sara,Casablanca,Mouse,Accessories,3,120
+3,2025-01-10,Youssef,Rabat,Keyboard,Accessories,2,250
+4,2025-01-12,Laila,Marrakech,Monitor,Electronics,2,1800
+5,2025-01-15,Omar,Tanger,Laptop,Electronics,1,8200
+6,2025-01-18,Sara,Casablanca,Headphones,Accessories,1,600
+7,2025-02-02,Hamza,Fes,Tablet,Electronics,2,3200
+8,2025-02-05,Amine,Marrakech,Mouse,Accessories,5,115
+9,2025-02-09,Nadia,Rabat,Monitor,Electronics,1,1900
+10,2025-02-14,Youssef,Rabat,Laptop,Electronics,1,7800
+11,2025-02-20,Laila,Marrakech,Keyboard,Accessories,,250
+12,2025-03-03,Omar,Tanger,Headphones,Accessories,2,580
+13,2025-03-08,Hamza,Fes,Monitor,Electronics,3,1750
+14,2025-03-12,Nadia,Rabat,Tablet,Electronics,1,3300
+15,2025-03-19,Sara,Casablanca,Laptop,Electronics,2,7600
