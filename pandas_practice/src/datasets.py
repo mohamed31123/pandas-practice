@@ -49,9 +49,15 @@ print(mycars)
 
 # 8. Read the CSV file
 BASE_DIR = Path(__file__).resolve().parent.parent
-csv_path = BASE_DIR / "data" / "sales.csv"
 
-df = pd.read_csv(csv_path)
+
+df = pd.read_csv(BASE_DIR / "data" / "sales.csv")
 
 print("\nSales dataset:")
 print(df.to_string())
+
+# analyzing data
+print(df.head())
+print(df.tail())
+print(df.describe())
+print(df.info())
