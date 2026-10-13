@@ -57,7 +57,12 @@ print("\nSales dataset:")
 print(df.to_string())
 
 # analyzing data
-print(df.head())
-print(df.tail())
+
+
+print("describe dataset:")
 print(df.describe())
-print(df.info())
+print(df.head())
+
+print("dataset shape:")
+print(df.shape)
+
